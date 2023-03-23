@@ -33,13 +33,3 @@
 <img src="https://img.icons8.com/color/256/nodejs.png" style="display: inline-block; float: left; margin-left: 10px;" width="50" alt="Node JS">
 
 </div>
-
-<br>
-
-<p> Here are my works from last week </p>
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-
