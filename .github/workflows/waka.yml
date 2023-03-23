@@ -1,13 +1,11 @@
-name: Wakatime
-
+name: Metrics
 on:
   schedule:
     # Runs at 12am IST
     - cron: '30 18 * * *'
   workflow_dispatch:
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: LucasARNAUD02/LucasARNAUD02@main
