@@ -2,6 +2,18 @@
 
 <p> I am a full-stack developer working at AFF financement, a credit brokerage company </p>
 
+<p> I am interested in computer science, video games, and cryptocurrencies </p>
+
+<div>
+ 
+  <img src="https://img.icons8.com/external-filled-outline-perfect-kalash/256/external-bitcoin-currency-and-cryptocurrency-signs-free-filled-outline-perfect-kalash.png" style="display: inline-block; float: left; margin-left: 10px;" width="50" alt="Bitcoin">
+  
+  <img src="https://img.icons8.com/fluency/256/ethereum.png" style="display: inline-block; float: left; margin-left: 10px;" width="50" alt="Ethereum">
+  
+</div>
+
+<p> I graduated with a high school diploma in Science and Technology for Industry and Sustainable Development, a BTS (2-year technical degree) in IT Services for Organizations, and a Bachelor's degree in Web and Mobile Application Design and Development. </p>
+
 <p> I present to you my cat, Canelle 🐈 </p>
 
 <img src="https://github.com/LucasARNAUD02/LucasARNAUD02/blob/main/canelle.jpeg" height="80%" width="100%">
