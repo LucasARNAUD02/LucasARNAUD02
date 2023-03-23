@@ -1,8 +1,6 @@
 <h2> Hi, welcome to my Github profile ✌️ </h2>
 
-<p> I am a full-stack developer working at AFF financement, a credit brokerage company </p>
-
-<p> I am interested in computer science, video games, and cryptocurrencies </p>
+<p> I am a full-stack developer working at AFR financement, a credit brokerage company, interested in computer science, video games, and cryptocurrencies </p>
 
 <div>
  
